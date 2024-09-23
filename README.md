@@ -6,40 +6,70 @@ I'm passionate about creating innovative user experiences and I'm ready to take 
 
 <h3 align="center">🚀 Front-end Tools</h3>
 <div align="center">
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
-  </a>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+    </a>
+    <br/> HTML
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+    </a>
+    <br/> CSS
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+    </a>
+    <br/> JavaScript
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
+    </a>
+    <br/> React
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>
+    </a>
+    <br/> Vue.js
+  </div>
 </div>
 
 <h3 align="center">🛠️ Tools & Methods</h3>
 <div align="center">
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
-  </a>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
+    </a>
+    <br/> Figma
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="Adobe XD"/>
+    </a>
+    <br/> Adobe XD
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+    </a>
+    <br/> Git
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+    </a>
+    <br/> GitHub
+  </div>
+  <div>
+    <a href="#">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VSCode"/>
+    </a>
+    <br/> VSCode
+  </div>
 </div>
 
 <h3 align="center">📫 Contact Me</h3>
@@ -47,8 +77,12 @@ I'm passionate about creating innovative user experiences and I'm ready to take 
   <a href="https://linkedin.com/in/lcscaio" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <span>WhatsApp: +55 22 98152-0471</span><br/>
-  <span>E-mail: bylcscaio@gmail.com</span>
+  <a href="https://api.whatsapp.com/send?phone=5522981520471" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:bylcscaio@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
 </p>
 
 <p align="center">Thanks for visiting my profile! 😊</p>
