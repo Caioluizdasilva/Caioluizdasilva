@@ -1,10 +1,8 @@
-<h2 align="center"> Hi, I'm Caio! 👋</h2>
-<h3 align="center">Technician in Informatics, UI/UX Designer, and Front-End Developer </h3>
+<h2 align="center">Hi, I'm Caio! 👋</h2>
+<h3 align="center">Technician in Informatics, UI/UX Designer, and Front-End Developer</h3>
 <p align="center">
 I'm passionate about creating innovative user experiences and I'm ready to take on new challenges to add value to your project. Welcome to my GitHub profile!
 </p>
-
----
 
 <h3 align="center">🚀 Front-end Tools</h3>
 <div align="center">
@@ -25,8 +23,6 @@ I'm passionate about creating innovative user experiences and I'm ready to take 
   </a>
 </div>
 
----
-
 <h3 align="center">🛠️ Tools & Methods</h3>
 <div align="center">
   <a href="#">
@@ -46,18 +42,13 @@ I'm passionate about creating innovative user experiences and I'm ready to take 
   </a>
 </div>
 
----
-
 <h3 align="center">📫 Contact Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/lcs-caio" target="_blank">
+  <a href="https://linkedin.com/in/lcscaio" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/lcs.caio" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
+  <span>WhatsApp: +55 22 98152-0471</span><br/>
+  <span>E-mail: bylcscaio@gmail.com</span>
 </p>
-
----
 
 <p align="center">Thanks for visiting my profile! 😊</p>
