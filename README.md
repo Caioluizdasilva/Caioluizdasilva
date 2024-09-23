@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hi, I'm Caio! 👋</h2>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;">Technician in Informatics, UI/UX Designer, and Front-End Developer</h3>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #555;"> UI/UX Designer and Front-End Developer</h3>
 <p align="center" style="font-family: 'Arial', sans-serif; color: #777; max-width: 600px; margin: auto;">I'm passionate about crafting innovative user experiences, and I'm excited to take on new challenges that can add value to your project. Feel free to check out my GitHub profile!</p>
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #007bff;">🚀 Front-end Tools</h3>
